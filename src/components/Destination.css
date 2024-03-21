@@ -1,0 +1,24 @@
+.card{
+    width: 20vw;
+    border: 2px solid black;
+    margin:23px;
+    height: 320px;
+    border-radius: 10px;
+    background-color: #e7e7e7;
+    padding: 7px;
+    
+}
+
+.card img{
+    width: 95%;
+    height: 60%;
+    padding: 5px;
+    /* margin: 8px; */
+    border-radius: 15px;
+    object-fit: cover;
+}
+
+.card p {
+    font-style: italic;
+   
+}
